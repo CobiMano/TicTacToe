@@ -1,0 +1,2 @@
+SmartOpponent 9 | 1 | 0 RandomOpponent
+SmartOpponent 95 | 5 | 0 RandomOpponent
